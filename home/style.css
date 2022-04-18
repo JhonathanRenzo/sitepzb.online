@@ -41,7 +41,7 @@ body {
 }
 
 .btn {
-	border-radius: 10px;
+	border-radius: 15px;
 	padding: 5px 10px;
 	font-size: 29px;
 	background-color: #70ff8b;
@@ -56,5 +56,5 @@ body {
 
 .black p {
 	font-size: 18px;
-	color: white;
+	color: black;
 }
